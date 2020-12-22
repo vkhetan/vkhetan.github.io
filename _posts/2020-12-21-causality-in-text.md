@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivek Khetan, AI Researcher"
+title: "Causality in natural language text"
 date: 2020-12-21
 ---
 
